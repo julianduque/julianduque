@@ -1,6 +1,6 @@
 {
   "name": "julianduque",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "A personal card for Julián Duque (@julian_duque)",
   "main": "index.js",
   "bin": {
